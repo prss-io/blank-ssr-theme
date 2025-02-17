@@ -1,0 +1,7 @@
+{
+    "title": "Blank SSR",
+    "type": "blog",
+    "parser": "react",
+    "isSSR": true,
+    "siteVars": {}
+}
